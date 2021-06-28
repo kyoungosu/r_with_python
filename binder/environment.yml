@@ -6,7 +6,7 @@ channels:
 dependencies:
     - r-base=3.5.3
     - python=3.7.7
-    - r-dpylyr
+    - r-dplyr
     - r-ggplot2
     - r-reshape2
     - r-tidyverse
