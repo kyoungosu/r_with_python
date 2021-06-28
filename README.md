@@ -4,7 +4,8 @@ This repo builds on the [r binder](https://github.com/binder-examples/r) and [ju
 
  - Launch in Jupyter Lab: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/r_with_python/master?urlpath=lab)
  - Launch in RStudio: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/binder-examples/r_with_python/master?urlpath=rstudio)
- - Launch in kyoungosu repo: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyoungosu/r_with_python/HEAD)
+ - Launch in kyoungosu repo/main: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyoungosu/r_with_python/HEAD)
+ - Launch in kyoungosu repo/py37_r353: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyoungosu/r_with_python/revert-1-py37_r353)
 
 Example files included:
 
